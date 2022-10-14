@@ -1,0 +1,16 @@
+C:\Users\Fabia\OneDrive\Documents\GitHub\unzipDocx\unzipDocx\bin\Debug\net6.0\unzipDocx.exe
+C:\Users\Fabia\OneDrive\Documents\GitHub\unzipDocx\unzipDocx\bin\Debug\net6.0\unzipDocx.deps.json
+C:\Users\Fabia\OneDrive\Documents\GitHub\unzipDocx\unzipDocx\bin\Debug\net6.0\unzipDocx.runtimeconfig.json
+C:\Users\Fabia\OneDrive\Documents\GitHub\unzipDocx\unzipDocx\bin\Debug\net6.0\unzipDocx.dll
+C:\Users\Fabia\OneDrive\Documents\GitHub\unzipDocx\unzipDocx\bin\Debug\net6.0\unzipDocx.pdb
+C:\Users\Fabia\OneDrive\Documents\GitHub\unzipDocx\unzipDocx\obj\Debug\net6.0\unzipDocx.csproj.AssemblyReference.cache
+C:\Users\Fabia\OneDrive\Documents\GitHub\unzipDocx\unzipDocx\obj\Debug\net6.0\unzipDocx.csproj.ResolveComReference.cache
+C:\Users\Fabia\OneDrive\Documents\GitHub\unzipDocx\unzipDocx\obj\Debug\net6.0\unzipDocx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabia\OneDrive\Documents\GitHub\unzipDocx\unzipDocx\obj\Debug\net6.0\unzipDocx.AssemblyInfoInputs.cache
+C:\Users\Fabia\OneDrive\Documents\GitHub\unzipDocx\unzipDocx\obj\Debug\net6.0\unzipDocx.AssemblyInfo.cs
+C:\Users\Fabia\OneDrive\Documents\GitHub\unzipDocx\unzipDocx\obj\Debug\net6.0\unzipDocx.csproj.CoreCompileInputs.cache
+C:\Users\Fabia\OneDrive\Documents\GitHub\unzipDocx\unzipDocx\obj\Debug\net6.0\unzipDocx.dll
+C:\Users\Fabia\OneDrive\Documents\GitHub\unzipDocx\unzipDocx\obj\Debug\net6.0\refint\unzipDocx.dll
+C:\Users\Fabia\OneDrive\Documents\GitHub\unzipDocx\unzipDocx\obj\Debug\net6.0\unzipDocx.pdb
+C:\Users\Fabia\OneDrive\Documents\GitHub\unzipDocx\unzipDocx\obj\Debug\net6.0\unzipDocx.genruntimeconfig.cache
+C:\Users\Fabia\OneDrive\Documents\GitHub\unzipDocx\unzipDocx\obj\Debug\net6.0\ref\unzipDocx.dll

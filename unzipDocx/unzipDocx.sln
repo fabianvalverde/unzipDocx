@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unzipDocx", "unzipDocx.csproj", "{C002065E-96AF-45D3-9DB7-31E157BD023B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C002065E-96AF-45D3-9DB7-31E157BD023B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C002065E-96AF-45D3-9DB7-31E157BD023B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C002065E-96AF-45D3-9DB7-31E157BD023B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C002065E-96AF-45D3-9DB7-31E157BD023B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B8ACFA9-0DF8-4B7C-84A4-710C073A885D}
+	EndGlobalSection
+EndGlobal
